@@ -18,8 +18,9 @@ namespace DynamoCommentsSQL
 
         static void Main(string[] args)
         {
+            string path = @"C:\Users\mzeuner\Google Drive\Contract Jobs\Dynamo\Report Card\Comments\CommentsPreped";
             List<CommentInfo> comments = new List<CommentInfo>();
-            string[] fileEntries = Directory.GetFiles(@"C:\Users\mzeuner\Google Drive\Contract Jobs\Dynamo\Report Card\Comments\Women's");
+            string[] fileEntries = Directory.GetFiles(path);
             foreach (string fileName in fileEntries)
             {
                 if(fileName.Contains("output")) { continue; }
@@ -66,7 +67,7 @@ namespace DynamoCommentsSQL
 
             }
             using (StreamWriter file =
-            new StreamWriter(@"C:\Users\mzeuner\Google Drive\Contract Jobs\Dynamo\Report Card\Comments\Women's\output.csv"))
+            new StreamWriter(path + @"\output.csv"))
             {
                 foreach (CommentInfo comment in comments)
                 {
@@ -80,7 +81,7 @@ namespace DynamoCommentsSQL
             }
 
             using (StreamWriter fileMain =
-            new StreamWriter(@"C:\Users\mzeuner\Google Drive\Contract Jobs\Dynamo\Report Card\Comments\Women's\outputMain.txt"))
+            new StreamWriter(path + @"\outputMain.txt"))
             {
                 foreach (CommentInfo comment in comments)
                 {

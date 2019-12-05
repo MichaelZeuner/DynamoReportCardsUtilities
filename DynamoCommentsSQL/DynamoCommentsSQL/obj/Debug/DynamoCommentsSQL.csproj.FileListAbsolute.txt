@@ -4,3 +4,9 @@ c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoC
 c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.csprojResolveAssemblyReference.cache
 c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.exe
 c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.pdb
+C:\Users\mzeuner\Documents\Visual Studio 2015\Projects\DynamoReportCardUtilities\DynamoCommentsSQL\DynamoCommentsSQL\bin\Debug\DynamoCommentsSQL.exe.config
+C:\Users\mzeuner\Documents\Visual Studio 2015\Projects\DynamoReportCardUtilities\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.exe
+C:\Users\mzeuner\Documents\Visual Studio 2015\Projects\DynamoReportCardUtilities\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.pdb
+C:\Users\mzeuner\Documents\Visual Studio 2015\Projects\DynamoReportCardUtilities\DynamoCommentsSQL\DynamoCommentsSQL\bin\Debug\DynamoCommentsSQL.exe
+C:\Users\mzeuner\Documents\Visual Studio 2015\Projects\DynamoReportCardUtilities\DynamoCommentsSQL\DynamoCommentsSQL\bin\Debug\DynamoCommentsSQL.pdb
+C:\Users\mzeuner\Documents\Visual Studio 2015\Projects\DynamoReportCardUtilities\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.csprojResolveAssemblyReference.cache
