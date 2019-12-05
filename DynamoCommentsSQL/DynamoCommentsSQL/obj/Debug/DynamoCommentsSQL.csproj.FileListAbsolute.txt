@@ -1,0 +1,6 @@
+c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\bin\Debug\DynamoCommentsSQL.exe.config
+c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\bin\Debug\DynamoCommentsSQL.exe
+c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\bin\Debug\DynamoCommentsSQL.pdb
+c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.csprojResolveAssemblyReference.cache
+c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.exe
+c:\users\mzeuner\documents\visual studio 2015\Projects\DynamoCommentsSQL\DynamoCommentsSQL\obj\Debug\DynamoCommentsSQL.pdb
